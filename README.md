@@ -1,9 +1,9 @@
 # INKOCHAIN
 INKOCHAIN BOT
 
-- Register Here : [INKOCHAIN](https://gm.inkonchain.com/)
+- Register Here : https://gm.inkonchain.com/
 - Register With Wallet Eth
-- Bridg Eth to INK
+- Bridg Eth to INK : https://inkonchain.com/dashboard?category=bridge
 - Min : 0.00001 Eth 
 
 ## Features
