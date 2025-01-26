@@ -1,0 +1,19 @@
+2025-01-26 17:47:58 [[32minfo[39m]: 
+2025-01-26 17:47:58 [[32minfo[39m]: Application Started
+2025-01-26 17:47:58 [[32minfo[39m]: BOT STARTED
+2025-01-26 17:47:58 [[32minfo[39m]: Log file cleared
+2025-01-26 17:47:59 [[32minfo[39m]: Account Type : Private Key
+2025-01-26 17:47:59 [[32minfo[39m]: Account 1 - Connecting to Account : 1
+2025-01-26 17:48:00 [[32minfo[39m]: Account 1 - Wallet connected "0x4AD3d5517953086eD9400da078C6201E796FA4E3"
+2025-01-26 17:48:00 [[32minfo[39m]: Account 1 - Getting Wallet Balance of 0x4AD3d5517953086eD9400da078C6201E796FA4E3
+2025-01-26 17:48:01 [[32minfo[39m]: Account 1 - Balance updated
+2025-01-26 17:48:02 [[32minfo[39m]: Account 1 - Getting User Last GM
+2025-01-26 22:31:45 [[31merror[39m]: uncaughtException: setRawMode EIO
+Error: setRawMode EIO
+    at ReadStream.setRawMode (node:tty:81:24)
+    at [_setRawMode] [as _setRawMode] (node:internal/readline/interface:374:18)
+    at Interface.close (node:internal/readline/interface:524:24)
+    at ReadStream.ontermend (node:internal/readline/interface:260:10)
+    at ReadStream.emit (node:events:519:35)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
